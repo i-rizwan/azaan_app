@@ -8,12 +8,31 @@
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/fragment_compass.xml" value="0.1" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/fragment_list_surah.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/fragment_read_surah.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/fragment_setting.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_about_author.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_bottomsheet_bygps.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_bottomsheet_bylatitudelongitude.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_delete.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_error_bottomsheet.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_fristopenapp.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_info.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_loader.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_phone_tilt.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_prayer_time.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/layout_quran_quote.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_all_surah.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_asma_alhusna.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_dua.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_fav_ayah.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_read_surah.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/list_stared_surah.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/layout/spinner_item.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.10989583333333333" />
         <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/menu/menu_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/RIZWAN/ANDROID/azaaan/azaan_app/app/src/main/res/menu/read_surah_menu.xml" value="0.10989583333333333" />
       </map>
     </option>
   </component>

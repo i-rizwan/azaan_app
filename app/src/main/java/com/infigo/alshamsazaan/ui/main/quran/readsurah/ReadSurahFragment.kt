@@ -60,11 +60,11 @@ class ReadSurahFragment(
     }
 
     private fun setupToolbar() {
-        (activity as AppCompatActivity).setSupportActionBar(binding.tbReadSurah)
-        (activity as AppCompatActivity).supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        binding.tbReadSurah.setNavigationOnClickListener {
-            requireActivity().onBackPressed()
-        }
+//        (activity as AppCompatActivity).setSupportActionBar(binding.tbReadSurah)
+//        (activity as AppCompatActivity).supportActionBar?.setDisplayHomeAsUpEnabled(true)
+//        binding.tbReadSurah.setNavigationOnClickListener {
+//            requireActivity().onBackPressed()
+//        }
     }
 
     override fun setListener() {

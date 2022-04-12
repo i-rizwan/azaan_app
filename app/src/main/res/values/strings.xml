@@ -1,7 +1,7 @@
 <resources>
     <item name="item_click_support" type="id" />
 
-    <string name="app_name">Solat Kuy</string>
+    <string name="app_name">AlShamsAzaan</string>
     <string name="welcome_dialog">Welcome to Solat Kuy!
         \n
         Solat Kuy is a open source reminder prayer time application

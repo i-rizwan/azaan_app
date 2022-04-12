@@ -25,4 +25,5 @@
     <dimen name="bottomSheet_size">200dp</dimen>
 
     <dimen name="progressBar_size">170dp</dimen>
+    <dimen name="compassSize">380dp</dimen>
 </resources>

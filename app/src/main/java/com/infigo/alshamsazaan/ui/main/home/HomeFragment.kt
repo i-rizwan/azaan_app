@@ -1,5 +1,5 @@
 package com.infigo.alshamsazaan.ui.main.home
-
+import com.infigo.alshamsazaan.R
 import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.view.View
@@ -15,12 +15,12 @@ import com.bumptech.glide.request.transition.DrawableCrossFadeFactory
 import com.infigo.alshamsazaan.base.BaseFragment
 import com.infigo.alshamsazaan.data.hardcodedata.DuaData
 import com.infigo.alshamsazaan.data.local.localentity.MsApi1
-import com.infigo.alshamsazaan.model.Timings
 import com.infigo.alshamsazaan.data.local.localentity.MsNotifiedPrayer
-import com.infigo.alshamsazaan.data.remote.json.prayerJson.Result
 import com.infigo.alshamsazaan.data.remote.json.prayerJson.PrayerResponse
+import com.infigo.alshamsazaan.data.remote.json.prayerJson.Result
 import com.infigo.alshamsazaan.data.remote.json.readsurahJsonEn.ReadSurahEnResponse
 import com.infigo.alshamsazaan.databinding.FragmentHomeBinding
+import com.infigo.alshamsazaan.model.Timings
 import com.infigo.alshamsazaan.ui.LocationHelper
 import com.infigo.alshamsazaan.ui.main.SelectPrayerHelper
 import com.infigo.alshamsazaan.util.Constant
