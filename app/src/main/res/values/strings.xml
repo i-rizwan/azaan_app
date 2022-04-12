@@ -1,12 +1,132 @@
 <resources>
-    <string name="app_name">AlShamsAzaan</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <item name="item_click_support" type="id" />
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_name">Solat Kuy</string>
+    <string name="welcome_dialog">Welcome to Solat Kuy!
+        \n
+        Solat Kuy is a open source reminder prayer time application
+        \n
+        \n
+        in order to start this app\n
+        please select your location
+    </string>
+
+    <!--PRAYER NAME-->
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <string name="loading">Loading..</string>
+    <string name="prayer_name">Prayer Name</string>
+    <string name="prayer_time">Prayer Time</string>
+    <string name="compass">Compass</string>
+    <string name="setting">Setting</string>
+    <string name="info">Info</string>
+    <string name="next_prayer_is_dhuhr">Next prayer is Dhuhr</string>
+
+    <!--Toolbar-->
+    <string name="ayahs_you_have_been_like">Ayahs you have been liked</string>
+
+    <!--LOCATION-->
+    <string name="changelocation">Change Location</string>
+    <string name="by_latitude_amp_longitude"><![CDATA[By Latitude & Longitude]]></string>
+    <string name="by_gps">By GPS</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="current_location">Current Location</string>
+    <string name="city">City</string>
+    <string name="calculation_method">Calculation Method</string>
+
+    <!--QIBLA COMPASS-->
+    <string name="compass_art">Compass Art:</string>
+    <string name="qibla_degree">Qibla degrees:</string>
+    <string name="compass_accuracy">Compass accuracy:</string>
+    <string name="please_tilt_your_phone_until_the_image_is_balanced">Please calibrate your phone compass until the compass accuracy is high</string>
+    <string name="please_do_this_move_before_using_the_compass_to_calibrate_the_compass">Please do this move before using the compass, in order to calibrate the compass</string>
+    <string name="unreliable">Unreliable</string>
+    <string name="lowAccuracy">Low Accuracy</string>
+    <string name="mediumAccuracy">Medium Accuracy</string>
+    <string name="highAccuracy">High Accuracy</string>
+
+    <!--ABOUT-->
+    <string name="see_author_and_credit">see author and credit</string>
+    <string name="about_developer">Solat Kuy is an open source reminder prayer \n time app, created to remind us to pray 🌙 \n\n feel free to see and contribute </string>
+    <string name="github_link">https://github.com/jiwomdf/Solat-Kuy-Android-MVVM-with-Coroutine</string>
+    <string name="powered_by">Powered by</string>
+    <string name="https_aladhan_com">https://aladhan.com</string>
+    <string name="katili_jiwo_a_w">© Katili Jiwo A.W.</string>
+    <string name="author_credit">Author &amp; Credit</string>
+    <string name="https_cleanpng_com">https://cleanpng.com</string>
+    <string name="https_unsplash_com">https://unsplash.com</string>
+    <string name="images">Images: </string>
+    <string name="api">Api: </string>
+
+    <!--GREGORIAN TO HIJRI-->
+    <string name="imsak_info">Imsak Info</string>
+    <string name="gregorian_to_hijri">Gregorian to Hijri</string>
+    <string name="type">Type</string>
+    <string name="gregorian">Gregorian</string>
+    <string name="hijri">Hijri</string>
+    <string name="date">Date</string>
+    <string name="month">Month</string>
+
+    <!--MESSAGE-->
+    <string name="fetch_failed">fetching data failed</string>
+    <string name="fetch_failed_na">N/A</string>
+    <string name="read_data_failed">read data failed</string>
+    <string name="please_enable_your_location">please enable your location</string>
+    <string name="text_error_title">Error Occurred</string>
+    <string name="text_error_dsc">Sorry.. there is an error, please try again</string>
+    <string name="last_read_ayah_not_found_title">Last read ayah not found</string>
+    <string name="last_read_ayah_not_found_dsc">You can save the last read ayah by swipe left the ayah when reading a surah</string>
+    <string name="text_there_is_no_data">There is no data</string>
+    <string name="last_surah_and_ayah_not_found_dsc">Last surah and ayah not found</string>
+
+    <!--PERMISSION-->
+    <string name="location_needed">Location Permission Needed</string>
+    <string name="permission_is_needed_to_run_the_gps">Permission is needed to run the Gps</string>
+
+    <string name="swipe_left_to_save_your_last_read_ayah">Swipe left to save your last read ayah</string>
+    <string name="saving_ayah">Saving Ayah</string>
+    <string name="unsaving_ayah">Unsaving Ayah</string>
+
+    <string name="open_setting">Open Setting</string>
+    <string name="proceed">Proceed</string>
+    <string name="syncdata">Syncing data..</string>
+    <string name="offline">You are offline..</string>
+    <string name="hide">Hide</string>
+    <string name="day">Day</string>
+    <string name="proceeded">Proceed</string>
+    <string name="dua_collection">Dua Collection</string>
+    <string name="latin">Latin</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="notification_icon">notification_icon</string>
+    <string name="reference">Reference</string>
+    <string name="locationicon">locationIcon</string>
+    <string name="abouticon">aboutIcon</string>
+    <string name="notactivelocationicon">notActiveLocationIcon</string>
+    <string name="solatkuyicon">solatKuyIcon</string>
+    <string name="widgetwallpaper">widgetWallpaper</string>
+    <string name="holy_quran">Holy Quran</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_surah_name">Search Surah by Name</string>
+    <string name="favotite_ayah">favotite_ayah</string>
+    <string name="please_wait_for_a_while">Please wait for a while..</string>
+    <string name="select_the_quotes_from">Select the quotes from</string>
+    <string name="from_fav_quote">From favorite ayahs</string>
+    <string name="from_api">From api.alquran.cloud</string>
+    <string name="youHaventFavAnyAyah">You haven\'t favorite any ayah</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_sure_want_to_delete_this_ayah">Are you sure want to unfavorite this ayah?</string>
+    <string name="api_alquran_cloud">https://api.alquran.cloud</string>
+    <string name="solat_kuy">Solat Kuy</string>
+    <string name="oke">Oke</string>
+    <string name="solat_kuy_exclamation">Solat Kuy!</string>
+    <string name="change_prayer_calculation_method">Change Prayer Calculation Method</string>
+    <string name="action_settings">Settings</string>
+
 </resources>

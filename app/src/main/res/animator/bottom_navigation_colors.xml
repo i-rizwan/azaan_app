@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:keep="@animator/bottom_navigation_colors">
+    <item
+        android:state_checked="true"
+        android:color="@color/dark_500" />
+    <item
+        android:state_checked="false"
+        android:color="@color/dark_200" />
+</selector>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.main.MainActivity">
+
+    <item android:id="@+id/fragmentHome"
+        android:icon="@drawable/ic_prayer_time_24dp"
+        android:title="@string/prayer_time"/>
+    <item android:id="@+id/fragmentCompass"
+        android:icon="@drawable/ic_navigation_24dp"
+        android:title="@string/compass"/>
+    <item android:id="@+id/fragmentQuran"
+        android:icon="@drawable/ic_holy_quran_24"
+        android:title="@string/holy_quran"/>
+    <item android:id="@+id/fragmentSetting"
+        android:icon="@drawable/ic_settings_24dp"
+        android:title="@string/setting"/>
+
+</menu>

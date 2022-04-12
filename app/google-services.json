@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499567857292",
+    "project_id": "alshamsazaan",
+    "storage_bucket": "alshamsazaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499567857292:android:70126ec64345078fafb5a9",
+        "android_client_info": {
+          "package_name": "com.infigo.alshamsazaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499567857292-0ue8tj68frmc7rnor6vjsehr4tjvj3gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAQe92lQbSOjbYGvge-tdtTj2YOEAUPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499567857292-0ue8tj68frmc7rnor6vjsehr4tjvj3gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
